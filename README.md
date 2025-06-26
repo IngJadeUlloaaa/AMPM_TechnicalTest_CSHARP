@@ -1,6 +1,8 @@
 # ampm technical test
 if exist this error: " Gravedad	Código	Descripción	Proyecto	Archivo	Línea	Estado suprimido
 Error		No se puede copiar "obj\Debug\Store.exe" en "bin\Debug\Store.exe". El proceso no puede obtener acceso al archivo 'bin\Debug\Store.exe' porque está siendo utilizado en otro proceso. Store "
+
+
 ---> Go to "task administrator" or press "Cntrl + shift + esc" and active processes searching for store.exe and press end execution. and run it back from visual studio or direct in the folder <---
 
 -- LOGIN
